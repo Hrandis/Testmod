@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aan3rxs1mj2kthbv?svg=true)](https://ci.appveyor.com/project/Hrandis/testmod)
